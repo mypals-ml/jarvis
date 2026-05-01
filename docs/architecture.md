@@ -18,6 +18,7 @@ The system utilizes a modular software stack based on modern industry standards 
 
 ### Integration and Data
 *   **Smart Home Control:** **Home Assistant** provides the infrastructure for controlling local IoT devices and managing home sensors.
+*   **CLI & Coding Tools:** Integration with local shell and filesystem through **MCP Servers**, allowing the assistant to perform coding tasks, file operations, and project management.
 *   **Memory and RAG:** A **Vector Database** (used via MCP) enables Retrieval-Augmented Generation (RAG) for long-term memory and context awareness.
 
 ## Hardware Strategy

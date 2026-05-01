@@ -18,3 +18,6 @@ The assistant is designed to be a comprehensive domestic AI, offering the follow
 
 ### Smart Home Integration
 *   **Device Control:** Seamlessly control local smart devices through voice or text commands.
+
+### Developer & CLI Tools
+*   **CLI Coding Assistance:** Provides a powerful command-line interface for coding tasks, enabling programming help, file manipulation, and project management directly from the terminal.
